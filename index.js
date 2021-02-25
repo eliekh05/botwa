@@ -26,7 +26,7 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 const tiktod = require('tiktok-scraper')
 const ffmpeg = require('fluent-ffmpeg')
 const { removeBackgroundFromImageFile } = require('remove.bg')
-const vcard = 'BEGIN:VCARD\n' 
+const vcard = 'Elie Khalil' 
             + 'VERSION:3.0\n' 
             + 'FN: Zhirrr\n' 
             + 'ORG: Pengembang XBot;\n' 
